@@ -45,6 +45,9 @@
         equipo2.MostrarJugadores();
         Console.WriteLine();
 
+        
+        Console.WriteLine($"Jugando el partido... resultados del partido");
+
         int puntajeEquipo1 = equipo1.CalcularPuntaje();
         int puntajeEquipo2 = equipo2.CalcularPuntaje();
 
