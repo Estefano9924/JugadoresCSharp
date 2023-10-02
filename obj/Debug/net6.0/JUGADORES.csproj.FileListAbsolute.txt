@@ -1,0 +1,15 @@
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\bin\Debug\net6.0\JUGADORES.exe
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\bin\Debug\net6.0\JUGADORES.deps.json
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\bin\Debug\net6.0\JUGADORES.runtimeconfig.json
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\bin\Debug\net6.0\JUGADORES.dll
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\bin\Debug\net6.0\JUGADORES.pdb
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\JUGADORES.csproj.AssemblyReference.cache
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\JUGADORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\JUGADORES.AssemblyInfoInputs.cache
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\JUGADORES.AssemblyInfo.cs
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\JUGADORES.csproj.CoreCompileInputs.cache
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\JUGADORES.dll
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\refint\JUGADORES.dll
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\JUGADORES.pdb
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\JUGADORES.genruntimeconfig.cache
+C:\Users\yo\OneDrive - Tecnologico de Antioquia Institucion Universitaria\Construccion Software IIII\JUGADORES\obj\Debug\net6.0\ref\JUGADORES.dll
